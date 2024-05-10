@@ -1,7 +1,6 @@
 # Power BI Dashboard Projects
 
-Welcome to our Power BI dashboard project repository! 🚀 In this project, we've created an interactive dashboard using Power BI that visualizes data related to multiple purchase items from various sources including Amazon, YouTube, Starbucks, and more.
-
+Welcome to our Power BI dashboard project repository! 🚀 In this project, I've created an interactive dashboard using Power BI that visualizes data related to multiple purchase items from various sources.
 ## Overview
 The goal of this project is to provide insights into consumer behavior and purchasing trends across different platforms. By analyzing data from Amazon, YouTube, Starbucks, and other sources, we aim to uncover valuable insights that can inform marketing strategies, product development, and decision-making processes.
 
