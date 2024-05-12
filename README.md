@@ -2,12 +2,12 @@
 
 Welcome to our Power BI dashboard project repository! 🚀 In this project, I've created an interactive dashboard using Power BI that visualizes data related to multiple purchase items from various sources.
 ## Overview
-The goal of this project is to provide insights into consumer behavior and purchasing trends across different platforms. By analyzing data from Amazon, YouTube, Starbucks, and other sources, we aim to uncover valuable insights that can inform marketing strategies, product development, and decision-making processes.
+The goal of this project is to provide insights into consumer behavior and purchasing trends across different platforms. By analyzing data from Amazon, Healthcare  and other sources, we aim to uncover valuable insights that can inform marketing strategies, product development, and decision-making processes.
 
 ## Key Features
 #### Interactive Visualizations: 
 Our Power BI dashboard offers interactive visualizations that allow users to explore data and gain insights through filters, slicers, and drill-down capabilities.
-Multi-Source Integration: We've integrated data from diverse sources including Amazon sales data, YouTube engagement metrics, Starbucks transaction records, and more to provide a comprehensive view of consumer behavior.
+Multi-Source Integration: We've integrated data from diverse sources including Amazon sales data, Healthcare engagement metrics and more to provide a comprehensive view of consumer behavior.
 #### Cross-Platform Analysis: 
 The dashboard enables cross-platform analysis, allowing users to compare purchasing patterns and trends across different platforms and products.
 Real-Time Data Updates: The dashboard is designed to fetch and display real-time data updates, ensuring that users have access to the latest information for informed decision-making.
